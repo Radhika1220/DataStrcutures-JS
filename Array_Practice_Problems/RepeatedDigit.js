@@ -1,3 +1,4 @@
+//4.check the repeated digit in the range between 0-100
 var arr = new Array();
 for (let i = 0; i <=100; i++) 
 {

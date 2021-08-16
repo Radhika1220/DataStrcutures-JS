@@ -1,3 +1,4 @@
+//3.Prime factorization using array
 var prompt = require("prompt-sync")();
 //Get the input from user
 var number=prompt("Enter a number : ");
